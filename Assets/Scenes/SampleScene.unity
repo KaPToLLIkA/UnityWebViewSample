@@ -25,7 +25,7 @@ RenderSettings:
   m_AmbientGroundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
   m_AmbientIntensity: 1
   m_AmbientMode: 3
-  m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
+  m_SubtractiveShadowColor: {r: 0, g: 0, b: 0, a: 1}
   m_SkyboxMaterial: {fileID: 0}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
@@ -153,6 +153,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3c5714df50874fa43aef0dafc2918c7a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _allowBackForwardNavGestures: 0
+  _transparent: 0
+  _zoom: 1
+  _androidForceDarkMode: 0
+  _enableWKWebView: 1
+  _leftTopMargins: {x: 0, y: 0}
+  _rightBottomMargins: {x: 0, y: 0}
 --- !u!114 &340990691
 MonoBehaviour:
   m_ObjectHideFlags: 0
