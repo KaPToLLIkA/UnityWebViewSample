@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "emulator-5554",
         "name": "com.hexagony.webgameviewer",
-        "processId": 16786,
+        "processId": 6931,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -12,6 +12,24 @@
             "deviceId": "emulator-5554",
             "name": "com.hexagony.webgameviewer",
             "processId": 16786,
+            "exited": true
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.hexagony.webgameviewer",
+            "processId": 22919,
+            "exited": true
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.google.android.apps.nexuslauncher",
+            "processId": 1075,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "com.hexagony.webgameviewer",
+            "processId": 6931,
             "exited": false
         }
     ],
